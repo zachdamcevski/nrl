@@ -1,6 +1,8 @@
 # nrl
 
-## Running an existing project
+## Initialising the project
+
+### Activating the poetry environment
 Navigate to the root of the repository where the poetry.toml file is.
 
 You must first install the required version of python with pyenv and set that to the local for the repository.
